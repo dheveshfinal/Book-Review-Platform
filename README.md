@@ -61,8 +61,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/dheveshfinal/Book-Review-Platform.git
 ```
 
 ### 2. Backend Setup
