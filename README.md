@@ -1,4 +1,4 @@
-# 📚 Books & Reviews Management System
+# 📚 Book Review Platform
 
 A full-stack web application for managing books, reviews, and quizzes with beautiful animated UI components.
 
